@@ -35,6 +35,12 @@ bash ~/start-androkde.sh
  
 kde
 
+# Warning
+
+If you get "su system error" or If you want rootlogin,remove ~/androkde-fs/root/.bash_profile in termux
+
+rm -rf ~/androkde-fs/root/.bash_profile
+
 # Termux-x11
 
 https://github.com/atamshkai/Ubuntu-18.04-KDE-Desktop-for-termux/raw/main/app-arm64-v8a-debug.apk
