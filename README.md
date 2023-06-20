@@ -35,7 +35,7 @@ bash ~/start-androkde.sh
  
 kde
 
-#Termux-x11
+# Termux-x11
 
 https://github.com/atamshkai/Ubuntu-18.04-KDE-Desktop-for-termux/raw/main/app-arm64-v8a-debug.apk
 
