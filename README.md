@@ -39,9 +39,11 @@ Then open termux again
 
 ```
 termux-setup-storage
-
+```
+```
 mv /sdcard/download/androkde-fs.tar.xz ~/
- 
+```
+```
 pkg up -y && pkg i -y x11-repo && pkg i -y proot pulseaudio termux-x11-nightly
 ```
 
