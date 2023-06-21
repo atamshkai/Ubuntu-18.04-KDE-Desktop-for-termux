@@ -35,7 +35,7 @@ Close termux
 exit
 ```
 
-Then open termux again
+Then open termux again and go step by step
 
 ```
 termux-setup-storage
@@ -51,11 +51,16 @@ Then,
 
 ```
 tar - xvJf androkde-fs.tar.xz
- 
+```
+
+``` 
 termux-x11 :1 &
- 
+```
+Open another session and
+```
 bash ~/start-androkde.sh
- 
+```
+``` 
 kde
 ```
 
