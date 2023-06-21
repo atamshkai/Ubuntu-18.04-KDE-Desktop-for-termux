@@ -1,6 +1,10 @@
 # KDE Desktop for termux-x11
 We got a lot of problems to launch KDE Desktop .So i used 18.04.6 LTS (Bionic Beaver).This version can run KDE easily on vncserver or Termux-x11.
 
+## Preview
+
+![](https://raw.githubusercontent.com/atamshkai/Ubuntu-18.04-KDE-Desktop-for-termux/main/Screenshot_2023-06-16-20-31-30-533_com.termux.x11.jpg)
+
 # To do
 
 Download it from here.
