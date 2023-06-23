@@ -85,3 +85,7 @@ https://github.com/atamshkai/termux-monet
 
 https://github.com/atamshkai/Ubuntu-18.04-KDE-Desktop-for-termux/raw/main/app-arm64-v8a-debug.apk
 
+#### Termux-x11 Custom Resolution
+
+1920:1080
+
