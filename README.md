@@ -79,13 +79,13 @@ rm -rf ~/androkde-fs/root/.bash_profile
 
 ## Termux
 
-https://github.com/atamshkai/termux-monet
+[Download](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk)
 
 ## Termux-x11
 
-https://github.com/atamshkai/Ubuntu-18.04-KDE-Desktop-for-termux/raw/main/app-arm64-v8a-debug.apk
+[Download](https://archive.org/download/termux-x11/app-universal-debug.apk)
 
-#### Termux-x11 Custom Resolution
+## Termux-x11 Custom Resolution
 
 1920:1080
 
