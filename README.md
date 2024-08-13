@@ -1,5 +1,10 @@
 # KDE Desktop for termux-x11
+
 We got a lot of problems to launch KDE Desktop .So i used 18.04.6 LTS (Bionic Beaver).This version can run KDE easily on vncserver or Termux-x11.
+
+## Phantom Process Killer
+
+[Here](https://github.com/atamshkai/Phantom-Process-Killer/tree/main) 
 
 ## Preview
 
