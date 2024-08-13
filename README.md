@@ -4,6 +4,8 @@ We got a lot of problems to launch KDE Desktop .So i used 18.04.6 LTS (Bionic Be
 
 ## Phantom Process Killer
 
+We need to Deactive it.
+
 [Here](https://github.com/atamshkai/Phantom-Process-Killer/tree/main) 
 
 ## Preview
@@ -77,16 +79,24 @@ mv ~/androkde-fs/start-androkde.sh
 ~/bash ~/start-androkde.sh
 ```
 
-``` 
-kde
-```
-
-# Warning
-
-If you get "su system error" or If you want rootlogin,remove ~/androkde-fs/root/.bash_profile in termux
-
 ```
 rm -rf ~/androkde-fs/root/.bash_profile
+```
+
+```
+apt update;apt remove -y sudo;apt install -y sudo audacious parole zsh wget
+
+wget https://github.com/atamshkai/Termux-Zsh/raw/main/zsh.tar.xz
+
+tar -xvJf zsh.tar.xz && mv zsh/.* ~/
+rm -rf zsh
+
+chsh -s /usr/bin/zsh
+
+```
+
+```
+kde
 ```
 
 ## Termux
