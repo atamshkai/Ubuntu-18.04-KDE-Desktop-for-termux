@@ -84,7 +84,7 @@ rm -rf ~/androkde-fs/root/.bash_profile
 ```
 
 ```
-apt update;apt remove -y sudo;apt install -y sudo audacious parole zsh wget
+apt update;apt remove -y sudo;apt install -y sudo audacious parole zsh wget pulseaudio
 
 wget https://github.com/atamshkai/Termux-Zsh/raw/main/zsh.tar.xz
 
