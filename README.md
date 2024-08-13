@@ -62,9 +62,16 @@ tar -xvJf androkde-fs.tar.xz
 termux-x11 :1 &
 ```
 Open another session and
+
 ```
-bash ~/start-androkde.sh
+mv ~/androkde-fs/start-androkde.sh
+~/androkde-fs/androkde-binds ~/
 ```
+
+```
+~/bash ~/start-androkde.sh
+```
+
 ``` 
 kde
 ```
