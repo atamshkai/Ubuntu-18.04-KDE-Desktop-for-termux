@@ -14,7 +14,7 @@ We need to Deactive it.
 
 # To do
 
-Download it from here.
+Download it from here.(Use VPN)
 
 https://www.mediafire.com/file/5d8aitew9zjshzr/androkde-fs.tar.xz/file
 
