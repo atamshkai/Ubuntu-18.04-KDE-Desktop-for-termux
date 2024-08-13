@@ -76,11 +76,11 @@ mv ~/androkde-fs/start-androkde.sh
 ```
 
 ```
-~/bash ~/start-androkde.sh
+rm -rf ~/androkde-fs/root/.bash_profile
 ```
 
 ```
-rm -rf ~/androkde-fs/root/.bash_profile
+~/bash ~/start-androkde.sh
 ```
 
 ```
