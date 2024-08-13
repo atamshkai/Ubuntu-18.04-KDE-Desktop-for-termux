@@ -4,7 +4,7 @@ We got a lot of problems to launch KDE Desktop .So i used 18.04.6 LTS (Bionic Be
 
 ## Phantom Process Killer
 
-We need to Deactive it.
+We need to Deactive Phantom Process Killer.
 
 [Here](https://github.com/atamshkai/Phantom-Process-Killer/tree/main) 
 
