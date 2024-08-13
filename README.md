@@ -55,7 +55,7 @@ mv /sdcard/download/androkde-fs.tar.xz ~/
 Then,
 
 ```
-tar - xvJf androkde-fs.tar.xz
+tar -xvJf androkde-fs.tar.xz
 ```
 
 ``` 
